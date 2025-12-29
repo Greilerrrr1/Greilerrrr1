@@ -5,9 +5,9 @@
 
 - <b>Python</b>
     - <b>[IT Ticket Classifier Machine Learning](https://github.com/Greilerrrr1/IT-Ticket-Classifier)
-    - <b>[Python Local Activity Logger](https://github.com/Greilerrrr1/local-activity-logger)
-    - <b>[Python Demo Keylogger](https://github.com/Greilerrrr1/Educational-Keylogger-Example)
-    - <b>[Python QR Code Generator](https://github.com/Greilerrrr1/QRCodeGenerator)
+    - <b>[Local Activity Logger](https://github.com/Greilerrrr1/local-activity-logger)
+    - <b>[Demo Keylogger](https://github.com/Greilerrrr1/Educational-Keylogger-Example)
+    - <b>[QR Code Generator](https://github.com/Greilerrrr1/QRCodeGenerator)
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)

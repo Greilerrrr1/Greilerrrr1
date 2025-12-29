@@ -1,4 +1,4 @@
-![1760576903733](https://github.com/user-attachments/assets/87fa7b52-1466-4599-94a0-81e1969ad780)
+
 <h1>Hi, I'm Greiler! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>

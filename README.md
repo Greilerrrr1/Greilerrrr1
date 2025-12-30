@@ -22,7 +22,7 @@
 
 ## Certifications
 
-- [AZ-900](https://learn.microsoft.com/en-us/users/abranatesgreiler-1785/credentials/f68ccf4f189b5a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/AbrahantesGreiler-1785/F68CCF4F189BB5A?sharingId=5CCDBDD24B67F1E1)
 - [CompTIA Network+](https://www.credly.com/badges/88efd6bb-8b7b-48e7-8e0e-0788eb500d39/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/08e997d8-5416-46c4-be4a-29c833490d7c/public_url)
 - [Google Cybersecurity Professional](https://coursera.org/share/07308592c8be9b57bad0382900487e7b)

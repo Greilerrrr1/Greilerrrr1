@@ -19,6 +19,7 @@
 
 - <b>Other Projects and Labs</b>
      - [SOC-LAB](https://github.com/Greilerrrr1/soc-lab)
+     - [Windows-Enterprise-Administration](https://github.com/Greilerrrr1/windows_enterprise_administration)
 
 ## Certifications
 

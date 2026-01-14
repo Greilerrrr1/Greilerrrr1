@@ -18,8 +18,9 @@
   - [Student Class Console App](https://github.com/Greilerrrr1/student-class-console-app)
 
 - <b>Other Projects and Labs</b>
-     - [SOC-LAB](https://github.com/Greilerrrr1/soc-lab)
-     - [Windows-Enterprise-Administration](https://github.com/Greilerrrr1/windows_enterprise_administration)
+     - [SOC LAB](https://github.com/Greilerrrr1/soc-lab)
+     - [Window -Enterprise Administration](https://github.com/Greilerrrr1/windows_enterprise_administration)
+     - [Network Reconnaissance Lab](https://github.com/Greilerrrr1/network-reconnaissance-lab)
 
 ## Certifications
 

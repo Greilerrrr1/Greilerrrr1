@@ -19,8 +19,9 @@
 
 - <b>Other Projects and Labs</b>
      - [SOC LAB](https://github.com/Greilerrrr1/soc-lab)
-     - [Window -Enterprise Administration](https://github.com/Greilerrrr1/windows_enterprise_administration)
+     - [Window Enterprise Administration](https://github.com/Greilerrrr1/windows_enterprise_administration)
      - [Network Reconnaissance Lab](https://github.com/Greilerrrr1/network-reconnaissance-lab)
+     - [Network Attack & Defense Lab](https://github.com/Greilerrrr1/network-attack-defense-lab)
 
 ## Certifications
 
